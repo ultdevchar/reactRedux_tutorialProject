@@ -51,5 +51,5 @@ npm start
 ![Screenshot 1](/src/assets/screenshots/screenshot_1.PNG)
 </br></br>
 ---
-</br></br>
+</br>
 ![Screenshot 2](/src/assets/screenshots/screenshot_2.PNG)
